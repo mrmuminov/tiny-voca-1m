@@ -1,0 +1,7 @@
+Tiny-Voca-UZ-1M
+Copyright 2026 Tiny-Voca-UZ-1M contributors
+
+This project includes code derived from tiny-voca
+(https://github.com/n4ze3m/tiny-voca, commit d7c5c01f9d6b606c787cda357156ba9389923f57),
+Copyright Muhammed Nazeem, licensed under the Apache License, Version 2.0.
+Modified files: src/tiny_voca_uz/model.py, src/tiny_voca_uz/config.py, src/tiny_voca_uz/params.py.

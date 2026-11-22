@@ -1,0 +1,14 @@
+{
+  "channels": 96,
+  "heads": 4,
+  "feedforward": 384,
+  "kernel": 7,
+  "encoder_layers": 3,
+  "prosody_layers": 2,
+  "acoustic_layers": 3,
+  "predictor_channels": 96,
+  "speakers": ["M1"],
+  "sample_rate": 24000,
+  "hop": 256,
+  "n_fft": 1024
+}
